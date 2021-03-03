@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SriVastavPolsani
 - 👀 I’m interested in Programming and Software Design.
-- 🌱 I’m currently learning C#, JavaScript, Angular, SQL Databases and AWS.
-- 💞️ I’m looking to collaborate on all the avove technologies and more.
+- 🌱 I’m currently learning and building using C#, Java, JavaScript, Angular, SQL Databases, Git and AWS.
+- 💞️ I’m looking to collaborate on all the above technologies and more.
 - 📫 How to reach me - https://www.linkedin.com/in/vastavp/ or vastavp@gmail.com
 
 <!---
